@@ -1,4 +1,4 @@
-<p>Software developer currently working with Salesforce professionally, occasionally taking on freelance assignments. Mostly Wordpress/HTML/CSS/JS. Please excuse my early repositories; I used this account mostly to store code for school projects at the start. Feel free to contact me at john@dehart.dev.</p>
+<p>Software developer currently working with Salesforce professionally, occasionally taking on freelance assignments. Mostly Wordpress/HTML/CSS/JS. Feel free to contact me at john@dehart.dev.</p>
 
 
 <p>Version: 3.1:<br />
